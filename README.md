@@ -1,5 +1,3 @@
-# effective_notes
-
 The note for writing what I learned thing of books.
 
 ## Effective Modern C++
